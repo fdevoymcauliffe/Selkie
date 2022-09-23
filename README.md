@@ -44,7 +44,7 @@ Clone the repo
 To open the tool select the visual studio solution file “SELKIE.sln” and the start button to load the GUI. 
 
 # How to Guide & Run Scenarios
-The user is advised to prepare their Metocean and Power Matrix or Power Curve input data in advance of creating their first project, following the instructions in section 3.3 and 7 in .  
+The user is advised to prepare their Metocean and Power Matrix or Power Curve input data in advance of creating their first project, following the instructions in section 3.3 and 7 in https://github.com/fdevoymcauliffe/Selkie/blob/main/bin/Debug/SELKIE_logistics_tool_user_guide.pdf.  
 
 # License
 Distributed under the GNU GENERAL PUBLIC LICENSE. See LICENSE.txt for more information.
