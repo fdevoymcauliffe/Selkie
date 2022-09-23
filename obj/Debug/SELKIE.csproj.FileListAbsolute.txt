@@ -1,0 +1,701 @@
+C:\Users\uma.pilli\source\repos\SELKIE\bin\Debug\SELKIE.exe.config
+C:\Users\uma.pilli\source\repos\SELKIE\bin\Debug\SELKIE.exe
+C:\Users\uma.pilli\source\repos\SELKIE\bin\Debug\SELKIE.pdb
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.csprojAssemblyReference.cache
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Form1.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.exe
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.pdb
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Rough.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Resource.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.OM_Bases.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Vessels.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Repairs.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Components.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\uma.pilli\source\repos\SELKIE\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.csprojAssemblyReference.cache
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.OM_Bases.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\Downloads\SELKIE (7)\SELKIE\obj\Debug\SELKIE.pdb
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\bin\Debug\SELKIE.exe.config
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\bin\Debug\SELKIE.exe
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\bin\Debug\SELKIE.pdb
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.csprojAssemblyReference.cache
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Components.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Form1.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.OM_Bases.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Repairs.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Resource.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Rough.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.SimForm.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Vessels.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.exe
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.pdb
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.AddBases.resources
+C:\Users\uma.pilli\source\repos\10042021\SELKIE\SELKIE\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.csprojAssemblyReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.OM_Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.csprojAssemblyReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.OM_Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie\SoruceCode\SELKIE (2)\SELKIE\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.csprojAssemblyReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (4)\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps (6)\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps6_Setup\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps8\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\source\repos\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\SelkieDevOps19\SelkieDevOps V 1\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Personal\UCC\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\Documents\August\Latest\Selkie_SCode5\Selkie_SCode\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_SCode7\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\Selkie_Azure_Git\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\Documents\Sep\SEP22\SelkieDevOps_starting_calcs 1\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Uma.pilli\Documents\Nov6\SelkieDevOps_reports (2)\SelkieDevOps_reports\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\bin\Debug\SELKIE.exe.config
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\bin\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\bin\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.AddBases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Bases.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Components.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Form1.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Repairs.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Reports.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Resource.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Rough.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.SimForm.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.Vessels.resources
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.exe
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.pdb
+C:\Users\Prasad.Gade\source\repos\Prasad\SelkieDevOps_reports_Nov7\SelkieDevOps\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\prasa\source\repos\SelkieV1\bin\Debug\SELKIE.exe.config
+C:\Users\prasa\source\repos\SelkieV1\bin\Debug\SELKIE.exe
+C:\Users\prasa\source\repos\SelkieV1\bin\Debug\SELKIE.pdb
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.AddBases.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Bases.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Components.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Form1.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Repairs.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Reports.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Resource.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Rough.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.SimForm.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.Vessels.resources
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.exe
+C:\Users\prasa\source\repos\SelkieV1\obj\Debug\SELKIE.pdb
+C:\Users\prasa\source\repos\SelkieDevops\bin\Debug\SELKIE.exe.config
+C:\Users\prasa\source\repos\SelkieDevops\bin\Debug\SELKIE.exe
+C:\Users\prasa\source\repos\SelkieDevops\bin\Debug\SELKIE.pdb
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.AddBases.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Bases.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Components.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Form1.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Repairs.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Resource.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.SimForm.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Usermanual.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.Vessels.resources
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.exe
+C:\Users\prasa\source\repos\SelkieDevops\obj\Debug\SELKIE.pdb
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\bin\Debug\SELKIE.exe.config
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\bin\Debug\SELKIE.exe
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\bin\Debug\SELKIE.pdb
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.AddBases.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Bases.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Components.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Form1.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Repairs.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Resource.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.SimForm.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Usermanual.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.Vessels.resources
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.exe
+C:\Users\prasa\source\repos\SELKIE\SELKIE_PROD\obj\Debug\SELKIE.pdb
+C:\Users\prasa\source\completed\SELKIE\bin\Debug\SELKIE.exe.config
+C:\Users\prasa\source\completed\SELKIE\bin\Debug\SELKIE.exe
+C:\Users\prasa\source\completed\SELKIE\bin\Debug\SELKIE.pdb
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.csproj.AssemblyReference.cache
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.csproj.ResolveComReference.cache
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.AddBases.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.AddComponent.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.AddInstallation.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.AddPreventivesMaintenance.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.AddRepairs.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.AddVessels.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Bases.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Components.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Dashboard.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Farm_Details.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Form1.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Installation_Strategy.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.PM_Maintenance.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Project_Details.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Properties.Resources.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Repairs.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Resource.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.SimForm.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Usermanual.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.Vessels.resources
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.csproj.GenerateResource.cache
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.csproj.CoreCompileInputs.cache
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.exe
+C:\Users\prasa\source\completed\SELKIE\obj\Debug\SELKIE.pdb

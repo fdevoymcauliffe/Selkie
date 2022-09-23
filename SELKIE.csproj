@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D44918CA-7CA0-4049-97D0-824BC6ED3981}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SELKIE</RootNamespace>
+    <AssemblyName>SELKIE</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>selkieICO.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBases.Designer.cs">
+      <DependentUpon>AddBases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddComponent.Designer.cs">
+      <DependentUpon>AddComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddInstallation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddInstallation.Designer.cs">
+      <DependentUpon>AddInstallation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPreventivesMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPreventivesMaintenance.Designer.cs">
+      <DependentUpon>AddPreventivesMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRepairs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRepairs.Designer.cs">
+      <DependentUpon>AddRepairs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVessels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVessels.Designer.cs">
+      <DependentUpon>AddVessels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bases.Designer.cs">
+      <DependentUpon>Bases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components.Designer.cs">
+      <DependentUpon>Components.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entities\AllEntities.cs" />
+    <Compile Include="Entities\AllEnums.cs" />
+    <Compile Include="Farm Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Farm Details.Designer.cs">
+      <DependentUpon>Farm Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Installation Strategy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Installation Strategy.Designer.cs">
+      <DependentUpon>Installation Strategy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\InstallDeviceList.cs" />
+    <Compile Include="Models\InstallJobsDataList.cs" />
+    <Compile Include="Models\InstallJobsList.cs" />
+    <Compile Include="Models\InstallBaseList.cs" />
+    <Compile Include="Models\InstallVesselsList.cs" />
+    <Compile Include="Models\InstallDeviceResultList.cs" />
+    <Compile Include="Models\InstallYearlyResultList.cs" />
+    <Compile Include="Logic\ReportsLogic.cs" />
+    <Compile Include="Logic\ResourceLogic.cs" />
+    <Compile Include="Logic\ValidationCheck.cs" />
+    <Compile Include="Models\BasesDetails.cs" />
+    <Compile Include="Models\ComponentDetails.cs" />
+    <Compile Include="Models\DataFolders.cs" />
+    <Compile Include="Models\FarmDetails.cs" />
+    <Compile Include="Models\InstallationDetails.cs" />
+    <Compile Include="Models\InstStrategyDetails.cs" />
+    <Compile Include="Models\PreventiveStartEnd.cs" />
+    <Compile Include="Models\PriventiveDetails.cs" />
+    <Compile Include="Models\ProjectDetails.cs" />
+    <Compile Include="Models\RepairDetails.cs" />
+    <Compile Include="Models\ResourceDetails.cs" />
+    <Compile Include="Models\Shifts.cs" />
+    <Compile Include="Models\VesselDetails.cs" />
+    <Compile Include="PM Maintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PM Maintenance.Designer.cs">
+      <DependentUpon>PM Maintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Project Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project Details.Designer.cs">
+      <DependentUpon>Project Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repairs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repairs.Designer.cs">
+      <DependentUpon>Repairs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resource.Designer.cs">
+      <DependentUpon>Resource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimForm.Designer.cs">
+      <DependentUpon>SimForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AllShifts.cs" />
+    <Compile Include="Models\SimBaseList.cs" />
+    <Compile Include="Models\SimJobsDataList.cs" />
+    <Compile Include="Models\SimComponentsList.cs" />
+    <Compile Include="Models\SimDeviceList.cs" />
+    <Compile Include="Models\SimIncidentsList.cs" />
+    <Compile Include="Models\SimVesselsList.cs" />
+    <Compile Include="Models\HiredAsReqByYear.cs" />
+    <Compile Include="Models\MiscModels.cs" />
+    <Compile Include="Models\SimComponent.cs" />
+    <Compile Include="Models\SimIncidents.cs" />
+    <Compile Include="Models\SimJobData.cs" />
+    <Compile Include="Models\SimReportModels.cs" />
+    <Compile Include="Models\SimDevice.cs" />
+    <Compile Include="Models\SimVessel.cs" />
+    <Compile Include="Models\Simyearly.cs" />
+    <Compile Include="Models\PowerCurveData.cs" />
+    <Compile Include="Models\BootstrapWW.cs" />
+    <Compile Include="Models\WeatherYearlyData.cs" />
+    <Compile Include="Logic\SimIterationList.cs" />
+    <Compile Include="Usermanual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usermanual.Designer.cs">
+      <DependentUpon>Usermanual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vessels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vessels.Designer.cs">
+      <DependentUpon>Vessels.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddBases.resx">
+      <DependentUpon>AddBases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddComponent.resx">
+      <DependentUpon>AddComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddInstallation.resx">
+      <DependentUpon>AddInstallation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPreventivesMaintenance.resx">
+      <DependentUpon>AddPreventivesMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRepairs.resx">
+      <DependentUpon>AddRepairs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVessels.resx">
+      <DependentUpon>AddVessels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bases.resx">
+      <DependentUpon>Bases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components.resx">
+      <DependentUpon>Components.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Farm Details.resx">
+      <DependentUpon>Farm Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Installation Strategy.resx">
+      <DependentUpon>Installation Strategy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PM Maintenance.resx">
+      <DependentUpon>PM Maintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project Details.resx">
+      <DependentUpon>Project Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Repairs.resx">
+      <DependentUpon>Repairs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource.resx">
+      <DependentUpon>Resource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimForm.resx">
+      <DependentUpon>SimForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usermanual.resx">
+      <DependentUpon>Usermanual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vessels.resx">
+      <DependentUpon>Vessels.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel1">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="selkieICO.ico" />
+    <Content Include="SelkieV1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
