@@ -47,7 +47,7 @@ To open the tool select the visual studio solution file “SELKIE.sln” and the
 The user is advised to prepare their Metocean and Power Matrix or Power Curve input data in advance of creating their first project, following the instructions in section 3.3 and 7 in .  
 
 # License
-Distributed under the GNU License. See LICENSE.txt for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE. See LICENSE.txt for more information.
 
 
 
